@@ -1,4 +1,4 @@
-from shippableimages/ubuntu1404_base:0.0.1
+from shippableimages/ubuntu1404_base:latest
 maintainer ragesh@shippable.com
 
 # Install php dependencies
